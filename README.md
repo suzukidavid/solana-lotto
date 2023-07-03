@@ -1,8 +1,6 @@
 # Solanalotto
 Project developed for https://github.com/solana-labs/defi-hackathon
 
-[Website](https://arrowana.github.io/solanalotto/)
-
 [Google Slide presentation](https://docs.google.com/presentation/d/1SuXkktspr3aomyPVLNghnFF5LWCSqLPK9wRp1TJK5g0) 
 
 ## Value proposition
